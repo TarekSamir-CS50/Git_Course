@@ -1,0 +1,22 @@
+  text-decoration:line-through;
+   }
+   span.old
+   {
+  color:F00;
+  text-decoration:line-through; 
+        
+   }
+   span.new
+   {
+  color:F00;
+   }
+   span.cap
+   {
+    text-transform:capitalize;
+   }
+   span.upper
+   {
+    text-transform:uppercase;
+   }
+   
+   
